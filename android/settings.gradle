@@ -1,0 +1,3 @@
+rootProject.name = 'PreworkImgur'
+
+include ':app'
